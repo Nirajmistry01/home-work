@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    padding: 20px 0px;
+}
+
+.container{
+    width: 1500px;
+    margin: 0px auto;
+    border: 1px;
+   
+}
+.nebar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.link ul li{
+    display:inline-block;
+    margin: 20px 100px;
+}
